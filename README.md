@@ -1,3 +1,5 @@
+## Please note that this isn't my starter code
+
 # GroupMe Bot Starter
 
 [![GNU GPLv3 License](https://img.shields.io/github/license/acmatuc/groupme-bot-starter.svg?maxAge=2592000)]()
